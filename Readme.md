@@ -19,6 +19,22 @@ I am also a radio HAM with the callsign UW5EMC, and I love experimenting with ra
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## Experience
+**Web Developer**  
+*DianSoftware · Part-time*  
+Oct 2021 - Present  
+PHP, WordPress and more
+
+**Web Developer**  
+*DevTech · Self-employed*  
+Mar 2015 - 2021  
+Ukraine Kriviy Rih
+
+**Web Developer - Back-End**  
+*PrComm*  
+Sep 2007 - Feb 2015 · 7 yrs 6 mos  
+Remote
+
 ## Education
 **Kryvyi Rih Technical University**  
 Associate’s Degree  
