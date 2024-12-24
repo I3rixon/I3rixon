@@ -12,6 +12,10 @@ I am also a radio HAM with the callsign UW5EMC, and I love experimenting with ra
 ## Projects
 //TODO
 
+## Some stats
+[![wakatime](https://wakatime.com/badge/user/6c951f5f-9202-4161-8163-a4a835366367.svg)](https://wakatime.com/@6c951f5f-9202-4161-8163-a4a835366367)
+
+
 ## Contact
 Feel free to reach out to me via [Email](mailto:lulzsecer@gmail.com).
 
