@@ -26,6 +26,6 @@ I am also a radio HAM with the callsign UW5EMC, and I love experimenting with ra
 [![wakatime](https://wakatime.com/badge/user/6c951f5f-9202-4161-8163-a4a835366367.svg)](https://wakatime.com/@6c951f5f-9202-4161-8163-a4a835366367)
 
 ## Contact
-Feel free to reach out to me via [Email](mailto:lulzsecer@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/devtechdpua/).
+Feel free to reach out to me via [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lulzsecer@gmail.com) or connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devtechdpua/).
 
 Thank you for visiting my profile!
