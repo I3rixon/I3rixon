@@ -19,6 +19,11 @@ I am also a radio HAM with the callsign UW5EMC, and I love experimenting with ra
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## Education
+**Kryvyi Rih Technical University**  
+Associate’s Degree  
+2003 - 2008
+
 ## Projects
 //TODO
 
