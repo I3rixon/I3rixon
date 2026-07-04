@@ -56,7 +56,7 @@ Associate’s Degree
 2003 - 2008
 
 ## Projects
-//TODO
+- **[Profile README](https://github.com/I3rixon/I3rixon)** — this repository, my GitHub profile page
 
 ## Some stats
 [![wakatime](https://wakatime.com/badge/user/6c951f5f-9202-4161-8163-a4a835366367.svg)](https://wakatime.com/@6c951f5f-9202-4161-8163-a4a835366367)
