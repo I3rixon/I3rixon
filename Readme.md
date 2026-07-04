@@ -31,9 +31,13 @@ I am also a radio HAM with the callsign UW5EMC, and I love experimenting with ra
 - **AI / MCP** — hands-on experience connecting AI agents (Claude and others) to real systems via MCP servers (Google Drive, Zapier, and custom tools) for AI-driven automation
 
 ## Experience
+**Developer**  
+*CRMOZ*  
+Aug 2025 - Present
+
 **Web Developer**  
 *DianSoftware · Part-time*  
-Oct 2021 - Present  
+Oct 2021 - Jun 2025  
 PHP, WordPress and more
 
 **Web Developer**  
