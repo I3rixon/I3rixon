@@ -57,6 +57,7 @@ Associate’s Degree
 
 ## Projects
 - **[Profile README](https://github.com/I3rixon/I3rixon)** — this repository, my GitHub profile page
+- **[HF Toolkit](https://github.com/I3rixon/hf-toolkit)** — a ham radio HF toolkit for your browser toolbar
 
 ## Some stats
 [![wakatime](https://wakatime.com/badge/user/6c951f5f-9202-4161-8163-a4a835366367.svg)](https://wakatime.com/@6c951f5f-9202-4161-8163-a4a835366367)
