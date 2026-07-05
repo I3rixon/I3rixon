@@ -28,7 +28,7 @@ I am also a radio HAM with the callsign UW5EMC, and I love experimenting with ra
 ## Automation & AI Tooling
 - **n8n** — building and maintaining workflow automations and system integrations
 - **Serverless** — building serverless Node.js functions and API orchestration
-- **AI / MCP** — hands-on experience connecting AI agents (Claude and others) to real systems via MCP servers (Google Drive, Zapier, and custom tools) for AI-driven automation
+- **AI / MCP** — hands-on experience connecting AI agents (Claude and others) to real systems via MCP servers for AI-driven automation
 
 ## Experience
 **Developer**  
