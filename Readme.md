@@ -38,6 +38,12 @@ Outside of development, I'm an amateur radio operator (HAM) with the callsign **
 - WordPress
 - WooCommerce
 
+### Legacy & Maintenance Work
+- Legacy PHP applications (custom frameworks)
+- Refactoring and modernization of old PHP/MySQL systems
+- API wrappers for legacy integrations
+- Migration of old systems to Laravel / modern architecture
+
 ### Automation & AI
 - n8n
 - MCP (Model Context Protocol)
