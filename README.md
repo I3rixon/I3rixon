@@ -47,6 +47,7 @@ Outside of development, I'm an amateur radio operator (HAM) with the callsign **
 ### Automation & AI
 - n8n
 - MCP (Model Context Protocol)
+- Zoho Deluge
 - REST APIs
 - Webhooks
 - AI integrations (Claude, ChatGPT, etc.)
@@ -114,7 +115,7 @@ Backend systems, PHP development, and long-term enterprise web projects.
 **Backend:** PHP, Laravel, Node.js  
 **Frontend:** JavaScript, HTML, CSS  
 **CMS:** WordPress, WooCommerce  
-**Automation:** n8n, MCP, APIs, Webhooks  
+**Automation:** n8n, MCP, Deluge, APIs, Webhooks  
 **Database:** MySQL  
 **Tools:** Git, GitHub, Serverless
 
