@@ -104,6 +104,14 @@ Backend systems, PHP development, and long-term enterprise web projects.
 
 ---
 
+## Certifications
+
+- 🎓 **[n8n - AI Agents, AI Automations & AI Voice Agents (No-code!)](https://ude.my/UC-c012d2b5-103a-46d2-a92a-aef6273cb644)**  
+  Udemy · May 2026 · 58 hours  
+  Instructors: Damian Danelczyk, Krystian Wojtarowicz, DFA Course Academy (AdaptifyAI OU)
+
+---
+
 ## GitHub Stats
 
 ![Wakatime](https://wakatime.com/badge/user/6c951f5f-9202-4161-8163-a4a835366367.svg)
