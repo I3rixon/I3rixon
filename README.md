@@ -110,6 +110,8 @@ Backend systems, PHP development, and long-term enterprise web projects.
   Udemy · May 2026 · 58 hours  
   Instructors: Damian Danelczyk, Krystian Wojtarowicz, DFA Course Academy (AdaptifyAI OU)
 
+  [<img src="assets/certificates/udemy-n8n-ai-agents.jpg" alt="Udemy certificate: n8n - AI Agents, AI Automations & AI Voice Agents" width="500">](https://ude.my/UC-c012d2b5-103a-46d2-a92a-aef6273cb644)
+
 ---
 
 ## GitHub Stats
