@@ -106,6 +106,12 @@ Backend systems, PHP development, and long-term enterprise web projects.
 
 ## Certifications
 
+- 🎓 **[NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://ude.my/UC-a86e03f5-a0f2-447c-b2c9-51071c29ce5b)**  
+  Udemy · Nov 2026 · 40.5 hours  
+  Instructors: Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller
+
+  [<img src="assets/certificates/udemy-nodejs-complete-guide.jpg" alt="Udemy certificate: NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)" width="500">](https://ude.my/UC-a86e03f5-a0f2-447c-b2c9-51071c29ce5b)
+
 - 🎓 **[n8n - AI Agents, AI Automations & AI Voice Agents (No-code!)](https://ude.my/UC-c012d2b5-103a-46d2-a92a-aef6273cb644)**  
   Udemy · May 2026 · 58 hours  
   Instructors: Damian Danelczyk, Krystian Wojtarowicz, DFA Course Academy (AdaptifyAI OU)
